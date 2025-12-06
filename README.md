@@ -2,7 +2,7 @@
 
 # Score values within code
 
-def Insert_Sort(a):
+    def Insert_Sort(a):
     shifts = 0
     a = a[:]
 
@@ -30,7 +30,7 @@ print(f"Sorted List: {sort} .Total Shifts: {shifts}")
 ###################################################################
 # Code using User Inputs
 
-def Insert_Sort(a):
+    def Insert_Sort(a):
     shifts = 0
     a = a[:]
 
